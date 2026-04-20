@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elsehs
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html&css&javascript
+- 🌱 I’m currently learning c# || OOP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
