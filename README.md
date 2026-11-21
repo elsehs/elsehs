@@ -50,7 +50,7 @@ I'm a Computer Science and Information student at **Mansoura University** with a
 
 ### 📌 Featured Projects
 
-- **[Manstek Platform](https://github.com/elsehs):** A console-based educational platform built in C# featuring student/instructor authentication and course management workflows.
+- **[Manstek Platform](https://github.com/elsehs/LMS):** A console-based educational platform built in C# featuring student/instructor authentication and course management workflows.
 - **[Inheritance Calculator](https://github.com/elsehs/Inheritance_Calculator):** A C# Windows Forms desktop application designed to calculate Islamic inheritance shares accurately using OOP principles.
 - **[Mini LMS](https://github.com/elsehs/LMS):** A console-based Learning Management System built in C# applying core Object-Oriented Programming concepts.
 
